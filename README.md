@@ -84,6 +84,6 @@ Go into the folder you have installed this project and proceed with following pr
 5. **Support Creators** - If you decide to contribute, click on the 'Pay' button by filling required data and you will be redirected to a secure payment page powered by Razorpay.
 6. **Secure Payments** - After the transaction is successful, you will receive a confirmation of your contribution, and the funds will be directly transferred to the developer's Razorpay account.
 
-### Thank You
+### Thank You ❤️
 
 Thank you for choosing **Talent Tree**. We hope this platform helps bring creative ideas to life and supports developers and creators in achieving their goals.
