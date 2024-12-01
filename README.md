@@ -86,4 +86,4 @@ Go into the folder you have installed this project and proceed with following pr
 
 ### Thank You ❤️
 
-Thank you for choosing **Talent Tree**. We hope this platform helps bring creative ideas to life and supports developers and creators in achieving their goals.
+Thank you for choosing **Talent Tree**. I hope this platform helps bring creative ideas to life and supports developers and creators in achieving their goals.
